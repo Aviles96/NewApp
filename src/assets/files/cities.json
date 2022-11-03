@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name":"Alicante",
+            "image": "alicante.png",
+            "desc": "Lorem Ipsum on lihtsalt proovitekst, mida kasutatakse printimis"
+        },
+        {
+            "id": 2,
+            "name":"Valencia",
+            "image": "valencia.png",
+            "desc": "Lorem Ipsum on lihtsalt proovitekst, mida kasutatakse printimis"
+
+        },
+        {
+            "id": 3,
+            "name":"Castellon",
+            "image": "castellon.png",
+            "desc": "Lorem Ipsum on lihtsalt proovitekst, mida kasutatakse printimis"
+
+        }
+    ]
+}
